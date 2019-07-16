@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = normal
+	geometry = 893x435+130+130 175 196
+[remote "ALC_Backup"]
+	url = C:\\Users\\michael.muketha\\Documents\\Android Toolset\\ALC Repo Backup
+	fetch = +refs/heads/*:refs/remotes/ALC_Backup/*
+[remote "origin"]
+	url = https://github.com/mukethamike/alcchallenge.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
